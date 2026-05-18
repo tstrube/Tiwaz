@@ -1,8 +1,8 @@
 # Tiwaz
 
-Tiwaz is a split keyboard with gasket mounted plate and hot-swappable switches. The joysticks use ribbon connectors for easy swapping. Each half works standalone as a one-handed controller or macro pad. QMK and VIA support allow button remapping in the browser without manual reflashing.
+Tiwaz is a split keyboard with gasket mounted plate and hot-swappable switches. Each half works standalone as a one-handed controller or macro pad. QMK and VIA support allow button remapping in the browser without manual reflashing.
 
-The PCB has solder points for other joysticks or custom use cases. These pins (2 ADC, one GPIO, GND, 3V3) can be reconfigured in firmware for different applications.
+The defining feature are the joysticks. They use ribbon connectors for easy replacement. There are multiple options including solder pads that allow access to the joysticks pins (2 ADC, one GPIO, GND, 3V3) for custom applications.
 
 ![Tiwaz](Images/Tiwaz.jpg)
 
