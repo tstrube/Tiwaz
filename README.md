@@ -19,12 +19,12 @@ The PCB has solder points for other joysticks or custom use cases. These pins (2
 
 - PCB available on *(coming soon)*
 - Case on [Printables]([https://www.printables.com/model/1715647-tiwaz-split-gaming-keyboard-gasket-mounted])
-- Ergo Keycaps (not affiliated, just very few compatible sets available)
-  - 38 1u Keycaps required per side
-  - [fkcaps custom](https://fkcaps.com/custom/PEWRWF)
-  - [LPF Glow Legended Low Profile MX Keycaps]([https://splitkb.com/products/lpf-glow-legended-mx-keycaps)
-  - [THT (Tai-Hao Thins) Low Profile Keycaps - 98 PCS](https://shop.tai-hao.com/products/98black)
-  - [THT (Tai-Hao Thins) Low Profile Keycaps - 65 Keys](https://shop.tai-hao.com/products/black-low-profile-keycaps)
-  - [THT (Tai-Hao Thins) Low Profile Keycaps - Blanks](https://shop.tai-hao.com/products/taihao-black-low-profile-keycap-1u-dot-pbt-backlit)
+- Ergo Keycaps (38 1u Keycaps required per side)
+  - Sets that work with the keyboard (not affiliated, just recommendations. There are very few backlit 1u sets available)
+    - [fkcaps custom](https://fkcaps.com/custom/PEWRWF)
+    - [LPF Glow Legended Low Profile MX Keycaps](https://splitkb.com/products/lpf-glow-legended-mx-keycaps)
+    - [THT (Tai-Hao Thins) Low Profile Keycaps - 98 PCS](https://shop.tai-hao.com/products/98black)
+    - [THT (Tai-Hao Thins) Low Profile Keycaps - 65 Keys](https://shop.tai-hao.com/products/black-low-profile-keycaps)
+    - [THT (Tai-Hao Thins) Low Profile Keycaps - Blanks](https://shop.tai-hao.com/products/taihao-black-low-profile-keycap-1u-dot-pbt-backlit)
 
 ## Assembly video *(coming soon)*
