@@ -18,7 +18,7 @@ The PCB has solder points for other joysticks or custom use cases. These pins (2
 ## Bill of Materials
 
 - PCB available on *(coming soon)*
-- Case on [Printables]([https://www.printables.com/model/1715647-tiwaz-split-gaming-keyboard-gasket-mounted])
+- Case on [Printables](https://www.printables.com/model/1715647-tiwaz-split-gaming-keyboard-gasket-mounted)
 - Ergo Keycaps (not affiliated, just recommendations. There are very few backlit 1u sets available)
   - [Custom set](https://fkcaps.com/custom/PEWRWF)
   - [LPF Glow Legended Low Profile MX Keycaps](https://splitkb.com/products/lpf-glow-legended-mx-keycaps)
