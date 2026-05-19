@@ -4,7 +4,7 @@ Tiwaz is a split keyboard with gasket mounted plate and hot-swappable switches. 
 
 The defining feature are the joysticks. They can operate as regular analog gampead sticks or digital buttons and use ribbon cables to connect to the PCB.
 
-There are multiple options including solder pads that allow access to the joysticks pins (2 ADC, one GPIO, GND, 3V3) for custom applications.
+There are multiple options including solder pads that allow access to the joysticks pins for custom applications.
 
 ![Tiwaz](Images/Tiwaz.jpg)
 
@@ -18,6 +18,19 @@ There are multiple options including solder pads that allow access to the joysti
 - 6 separate media keys
 - FN + lowest media key switch Joystick input mode
 - ~~[QMK firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tsc/tiwaz) with [VIA support](http://usevia.app)~~ *(pull-request pending)*
+
+## PCB details
+
+- RP2040 CPU
+- 2MB flash
+- 38 hot-swap connectors for MX type switches
+- 6 auxiliary buttons (intended as media keys, but remappable, of course)
+- WS2812 RGB LED for each switch and button
+- AUX connector for power and data transmission to the other half (only one half should be connected to the PC at any time)
+- Ideal diode to protect against accidentally plugging in both halves while they are connect to each other
+- Self-resetting fuse to to protect against high power draw of the LEDs (though limited in firmware)
+- ESD protection on the USB data pins
+- Solder points for joystick pins (ADC (2x), GPIO, GND, 3V3) 
 
 ## Bill of Materials
 
