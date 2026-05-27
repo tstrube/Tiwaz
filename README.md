@@ -16,10 +16,11 @@ There are multiple options including solder pads that allow access to the joysti
 - Two joystick options (Alps Alpine [RKJX21224001](https://tech.alpsalpine.com/e/products/detail/RKJX21224001/) / [PSP3000-style RKJXU1210006](https://tech.alpsalpine.com/e/products/detail/RKJXU1210006/))
 - 6 separate media keys
 - all switches and buttons are RGB backlit
-- FN + lowest media key switch Joystick input mode (analog gamepad, digital buttons)
+- FN + lowest media key switch Joystick input mode (digital buttons (blue indicator light), analog gamepad (yellow), mouse (red))
 - Gasket mounted plate for a dampened typing feel
 - Dapening material between Plate and PCB, as well as PCB and case
-- ~~[QMK firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tsc/tiwaz) with [VIA support](http://usevia.app)~~ *(pull-request pending)*
+- ~~[QMK firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tsc/tiwaz)~~ *(pull-request pending)*
+- ~~[VIAL firmware](https://github.com/vial-kb/vial-qmk/tree/master/keyboards/tsc/tiwaz)~~ *(pull-request pending)* - [VIAL website](https://get.vial.today/)
 
 ## PCB details
 
