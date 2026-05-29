@@ -17,9 +17,13 @@ There are multiple options including solder pads that allow access to the joysti
 - 6 separate media keys
 - all switches and buttons are RGB backlit
 - FN + lowest media key switch Joystick input mode (digital buttons (blue indicator light), analog gamepad (yellow), mouse (red))
+  - digital buttons: 4 directions + center button, can be used as regular buttons or arrow keys, for example
+  - analog gamepad: the joysticks are recognized as gamepad axes with a gamepad button
+  - mouse: the joysticks control the mouse cursor, clicking by pressing the joystick down. To drag move before 500ms after pressing down, otherwise it will be a right click.
+  - the indicator light is hardcoded. It is recommended to not change this key mapping
 - Gasket mounted plate for a dampened typing feel
 - Dapening material between Plate and PCB, as well as PCB and case
-- ~~[QMK firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tsc/tiwaz)~~ *(pull-request pending)*
+- ~~[QMK firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tsc/tiwaz)~~ *(pull-request pending)* - [QMK website](https://www.qmk.fm/)
 - ~~[VIAL firmware](https://github.com/vial-kb/vial-qmk/tree/master/keyboards/tsc/tiwaz)~~ *(pull-request pending)* - [VIAL website](https://get.vial.today/)
 
 ## PCB details
@@ -46,4 +50,8 @@ There are multiple options including solder pads that allow access to the joysti
   - [THT (Tai-Hao Thins) Low Profile Keycaps - 65 Keys](https://shop.tai-hao.com/products/black-low-profile-keycaps)
   - [THT (Tai-Hao Thins) Low Profile Keycaps - Blanks](https://shop.tai-hao.com/products/taihao-black-low-profile-keycap-1u-dot-pbt-backlit)
 
-## Assembly video *(coming soon)*
+## Assembly video
+
+![Tiwaz Assembly](Images/Assembly.png)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=tHYdIYXT8AQ)
