@@ -7,6 +7,8 @@ The defining feature are the joysticks. They can operate as regular analog gampe
 There are multiple options including solder pads that allow access to the joysticks pins for custom applications.
 
 ![Tiwaz](Images/Tiwaz.jpg)
+![Layer 0](Images/Layer0.png)
+![Layer 1](Images/Layer1.png)
 
 [More Images](Images/README.md)
 
