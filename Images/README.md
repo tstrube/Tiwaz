@@ -7,6 +7,9 @@
 ![Tiwaz Indicators](Tiwaz_Indicators.jpg)
 *Joystick mode indicators*
 
+![Tiwaz Stackup](Stackup.png)
+*Keyboard stackup*
+
 ![PCB Front](Front.png)
 *PCB front*
 
