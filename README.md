@@ -6,7 +6,8 @@ The defining feature are the joysticks. They can operate as regular analog gampe
 
 There are multiple options including solder pads that allow access to the joysticks pins for custom applications.
 
-![Tiwaz](Images/Tiwaz.jpg)
+![Tiwaz](Images/Tiwaz_LH.jpg)
+![Both Halves](Images/Both.jpg)
 ![Exploded view](Images/Stackup.png)
 ![Layer 0](Images/Layer0.png)
 ![Layer 1](Images/Layer1.png)
@@ -31,8 +32,7 @@ There are multiple options including solder pads that allow access to the joysti
 
 ## PCB details
 
-- RP2040 CPU
-- 2MB flash
+- RP2040 CPU with 2MB flash (will be replaced by STM32F401RET6 in the next revision to solve USB enumeration issues on boot)
 - 38 hot-swap connectors for MX type switches
 - 6 auxiliary buttons (intended as media keys, but remappable, of course)
 - WS2812 RGB LED for each switch and button
