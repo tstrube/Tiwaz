@@ -1,13 +1,15 @@
 # Tiwaz
 
-Tiwaz is a split keyboard with gasket mounted plate and hot-swappable switches. Each half works standalone as a one-handed controller or macro pad. QMK and VIAL support allow button remapping in the browser without manual reflashing.
+Tiwaz is a split keyboard with gasket mounted plate and hot-swappable switches. Each half works standalone as a one-handed controller or macro pad. This makes this one of the only gaming keyboards for left handed users. 
 
-The defining feature are the joysticks. They can operate as regular analog gampead sticks, digital buttons, or mouse input, and use ribbon cables to connect to the PCB.
+The defining feature are the joysticks. They can operate as regular analog gamepad sticks, digital buttons, or mouse input, and use ribbon cables to connect to the PCB.
 
 There are multiple options including solder pads that allow access to the joysticks pins for custom applications.
 
-![Tiwaz](Images/Tiwaz_LH.jpg)
-![Both Halves](Images/Both.jpg)
+QMK and VIAL support allow button remapping in the browser without manual reflashing.
+
+![Tiwaz Split](Images/Tiwaz.jpg)
+![Detail](Images/Tiwaz_On.jpg)
 ![Exploded view](Images/Stackup.png)
 ![Layer 0](Images/Layer0.png)
 ![Layer 1](Images/Layer1.png)
@@ -32,22 +34,22 @@ There are multiple options including solder pads that allow access to the joysti
 
 ## PCB details
 
-- RP2040 CPU with 2MB flash (will be replaced by STM32F401RET6 in the next revision to solve USB enumeration issues on boot)
+- STM32F401RET6 MCU
 - 38 hot-swap connectors for MX type switches
 - 6 auxiliary buttons (intended as media keys, but remappable, of course)
 - WS2812 RGB LED for each switch and button
 - AUX connector for power and data transmission to the other half (only one half should be connected to the PC at any time)
 - Ideal diode to protect against accidentally plugging in both halves while they are connect to each other
 - Self-resetting fuse to to protect against high power draw of the LEDs (though limited in firmware)
-- ESD protection on the USB data pins
+- ESD protection on the USB and AUX connectors
 - Solder points for joystick pins (ADC (2x), GPIO, GND, 3V3) 
 
 ## Bill of Materials
 
-- PCB available on *(coming soon)*
-- Case on [Printables](https://www.printables.com/model/1715647-tiwaz-split-gaming-keyboard-gasket-mounted)
+- PCB available on [Crowd Supply](https://www.crowdsupply.com/ts-consulting/tiwaz)
+- Case available on [Printables](https://www.printables.com/model/1715647-tiwaz-split-gaming-keyboard-gasket-mounted)
 - Ergo Keycaps (not affiliated, just recommendations. There are very few backlit 1u sets available)
-  - FK custom: [Left side](https://fkcaps.com/custom/5EEX2C) [Right side](https://fkcaps.com/custom/FTGWGS)
+  - FK custom: [Left side](https://fkcaps.com/custom/5EEX2C) - [Right side](https://fkcaps.com/custom/FTGWGS)
   - [LPF Glow Legended Low Profile MX Keycaps](https://splitkb.com/products/lpf-glow-legended-mx-keycaps)
   - [THT (Tai-Hao Thins) Low Profile Keycaps - 98 PCS](https://shop.tai-hao.com/products/98black)
   - [THT (Tai-Hao Thins) Low Profile Keycaps - 65 Keys](https://shop.tai-hao.com/products/black-low-profile-keycaps)
@@ -55,6 +57,5 @@ There are multiple options including solder pads that allow access to the joysti
 
 ## Assembly video
 
-![Tiwaz Assembly](Images/Assembly.png)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=tHYdIYXT8AQ)
+[![Tiwaz Assembly](Images/Assembly.jpg)](https://www.youtube.com/watch?v=tHYdIYXT8AQ)
+[Watch the assembly video on YouTube](https://www.youtube.com/watch?v=tHYdIYXT8AQ)
