@@ -29,8 +29,8 @@ QMK and VIAL support allow button remapping in the browser without manual reflas
   - the indicator light is hardcoded. It is recommended to not change this key mapping
 - Gasket mounted plate for a dampened typing feel
 - Dapening material between Plate and PCB, as well as PCB and case
-- ~~[QMK firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tsc/tiwaz)~~ *(pull-request pending)* - [QMK website](https://www.qmk.fm/)
-- ~~[VIAL firmware](https://github.com/vial-kb/vial-qmk/tree/master/keyboards/tsc/tiwaz)~~ *(pull-request pending)* - [VIAL website](https://get.vial.today/)
+- [QMK firmware](https://github.com/tstrube/qmk_firmware/tree/tiwaz/keyboards/tiwaz) *([pull-request pending](https://github.com/qmk/qmk_firmware/pull/26438))* - [QMK website](https://www.qmk.fm/)
+- [VIAL firmware](https://github.com/tstrube/vial-qmk/tree/tiwaz/keyboards/tiwaz) *(pull-request after QMK merged)* - [VIAL website](https://get.vial.today/)
 
 ## PCB details
 
