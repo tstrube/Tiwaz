@@ -36,5 +36,7 @@
 ![Tiwaz Render](Render.png)
 *3D Render*
 
+---
+
 ![Joystick options](Joysticks.png)
 *Joystick options (left: RKJX21224001, right: RKJXU1210006 (PSP3000))*
