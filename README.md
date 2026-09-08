@@ -47,7 +47,7 @@ QMK and VIAL support allow button remapping in the browser without manual reflas
 ## Bill of Materials
 
 - PCB available on [Crowd Supply](https://www.crowdsupply.com/ts-consulting/tiwaz)
-- Case available on [Printables](https://www.printables.com/model/1715647-tiwaz-split-gaming-keyboard-gasket-mounted)
+- Case available on [Printables](https://www.printables.com/model/1715647-tiwaz-split-gaming-keyboard-gasket-mounted), [Makerworld](https://makerworld.com/en/models/3280355-tiwaz-gaming-keyboard-macropad), [Thingiverse](https://www.thingiverse.com/thing:7404971)
 - Ergo Keycaps (not affiliated, just recommendations. There are very few backlit 1u sets available)
   - FK custom: [Left half](https://custom.fkcaps.com/custom/ZMRFDB) - [Right half](https://custom.fkcaps.com/custom/MJQDKY) - [Both halves](https://custom.fkcaps.com/custom/L3QJ2N)
   - [LPF Glow Legended Low Profile MX Keycaps](https://splitkb.com/products/lpf-glow-legended-mx-keycaps)
