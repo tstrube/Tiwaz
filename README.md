@@ -15,7 +15,7 @@ QMK and VIAL support allow button remapping in the browser without manual reflas
 - Custom keycaps: [Left half](https://custom.fkcaps.com/custom/ZMRFDB), [Right half](https://custom.fkcaps.com/custom/MJQDKY), [Both](https://custom.fkcaps.com/custom/L3QJ2N)
 - Assembly video: [YouTube](https://www.youtube.com/watch?v=tHYdIYXT8AQ)
 - Firmware: [QMK](https://github.com/tstrube/qmk_firmware/tree/tiwaz/keyboards/tiwaz), [VIAL](https://github.com/tstrube/vial-qmk/tree/tiwaz/keyboards/tiwaz)
-- etailed project presentation: [Hackaday](https://hackaday.io/project/206615-tiwaz-gaming-keyboard-macro-pad/details)
+- Detailed project presentation: [Hackaday](https://hackaday.io/project/206615-tiwaz-gaming-keyboard-macro-pad/details)
 
 ![Tiwaz Split](Images/Tiwaz.jpg)
 ![Detail](Images/Tiwaz_On.jpg)
