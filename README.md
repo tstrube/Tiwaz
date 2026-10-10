@@ -19,8 +19,8 @@ QMK and VIAL support allow button remapping in the browser without manual reflas
 - Subreddit: [Reddit](https://www.reddit.com/r/TiwazKeyboard/)
 - Get in touch: [X](https://x.com/TimoStrube)
 
-![Tiwaz Split](Images/Tiwaz.jpg)
-![Detail](Images/Tiwaz_On.jpg)
+![Tiwaz Split](Images/Tiwaz2.jpg)
+![Detail](Images/Tiwaz1.jpg)
 ![Exploded view](Images/Stackup.png)
 ![Layer 0](Images/Layer0.png)
 ![Layer 1](Images/Layer1.png)
