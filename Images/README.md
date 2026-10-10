@@ -1,9 +1,9 @@
-![Tiwaz Split](Tiwaz.jpg)
+![Tiwaz Split](Tiwaz2.jpg)
 *Split keyboard*
 
 ---
 
-![Tiwaz Detail](Tiwaz_On.jpg)
+![Tiwaz Detail](Tiwaz1.jpg)
 *Left half detail view*
 
 ---
